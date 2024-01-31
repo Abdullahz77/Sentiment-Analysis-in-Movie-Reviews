@@ -1,0 +1,8 @@
+epochs = 5 Learning Rate = 5e-05
+Validation Loss = 0.49949324483895907 Validation Accuracy = 0.925
+Testing Loss = 0.31507916019501864 Testing Accuracy = 0.95
+********
+epochs = 5 Learning Rate = 5e-05
+Validation Loss = 0.4897217736936 Validation Accuracy = 0.925
+Testing Loss = 0.22543804258966701 Testing Accuracy = 0.95
+********
